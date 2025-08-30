@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mj_tew_oda/metaltools"
+	"$bumpmap" "models/mj_tew_oda/metaltools_n"
+	
+	
+                 $halflambert "1"
+$nocull 1
+"$phong" "1" 
+                 "$phongexponent" "15"
+                 "$phongboost" "1.0"
+                 "$phongfresnelranges" "[.83 .83 .83 ]"
+               
+}
+
